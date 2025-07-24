@@ -1,4 +1,4 @@
-![logo](https://github.com/SyedAhad21/SyedAhad21/blob/main/Github%20Banner.png.png)
+
 <h1 align="center">Hi 👋, I'm Syed Ahad</h1>
 <h3 align="center">A passionate Data Engineer From Pakistan</h3>
 
